@@ -9,8 +9,6 @@ Analyzing data using Python libraries like Pandas and NumPy to derive insights.
 - NumPy
 - Jupyter Notebook
 
-## 🚀 How to Run
-- Clone the repo: `git clone https://github.com/<your-username>/Python-Data-Analysis.git`
-- Open the notebook in JupyterLab or VSCode
+
 
 
